@@ -8,9 +8,13 @@ Features
 ---------
 
 Lightweight
+
 Easy to use
+
 organized
+
 runs on Windows and Linux
+
 runs good on lower end or older computers
 
 Contribute!
